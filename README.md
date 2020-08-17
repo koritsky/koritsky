@@ -6,6 +6,6 @@ You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/koritcky/)
 - [Web-page](https://koritcky.github.io/)
 
-Or download [my CV](https://koritcky.github.io/)
+Or download [my CV](https://github.com/koritcky/koritcky.github.io/raw/master/files/Koritskiy%20Nikita%20-%20CV.pdf)
 
 
