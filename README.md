@@ -2,7 +2,7 @@ I'm pursuing a master's degree in Data Science at Skoltech and researching at th
 My main focus is on developing machine learning methods to solve problems in quantum physics.
 You can find me on:
 - [Facebook](https://www.facebook.com/koritcky/)
-- [Telegram](https://t.me/koritcky)
+- [Telegram](https://t.me/koritsky)
 - [LinkedIn](https://www.linkedin.com/in/koritcky/)
 - [Web-page](https://koritcky.github.io/)
 
